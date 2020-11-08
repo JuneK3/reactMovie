@@ -25,6 +25,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "homepage": "elegant-neumann-a747d5.netlify.app",
   "browserslist": {
     "production": [
       ">0.2%",
