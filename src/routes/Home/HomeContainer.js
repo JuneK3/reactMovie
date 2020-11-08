@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import HomePresenter from './HomePresenter';
-import { moviesApi } from 'api';
+import { moviesApi } from '../../api';
 
 const HomeContainer = () => {
   const [nowPlaying, setNowPlaying] = useState(null);

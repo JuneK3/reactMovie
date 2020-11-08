@@ -1,10 +1,10 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import styled from 'styled-components';
-import Section from 'components/Section';
-import Loader from 'components/Loader';
-import Message from 'components/Message';
-import Poster from 'components/Poster';
+import Section from '../../components/Section';
+import Loader from '../../components/Loader';
+import Message from '../../components/Message';
+import Poster from '../../components/Poster';
 import Helmet from 'react-helmet';
 
 const Container = styled.div`

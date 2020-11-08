@@ -1,9 +1,8 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import styled from 'styled-components';
-import Loader from 'components/Loader';
-import Message from 'components/Message';
-import { moviesApi } from '../../api';
+import Loader from '../../components/Loader';
+import Message from '../../components/Message';
 
 const Container = styled.div`
   height: calc(100vh - 50px);
