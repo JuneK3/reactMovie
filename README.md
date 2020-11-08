@@ -1,6 +1,8 @@
 # reactMovie
 
-Learning React and ES6 by Cloning a Popcorn Time App.
+Learning React and ES6 by Making Movie App (Popcorn Time).
+
+[Demo with netlify](https://elegant-neumann-a747d5.netlify.app)
 
 ## Screens
 
