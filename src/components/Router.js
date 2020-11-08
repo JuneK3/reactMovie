@@ -6,10 +6,10 @@ import {
   Switch,
   Redirect,
 } from 'react-router-dom';
-import Home from 'routes/Home';
-import TV from 'routes/TV';
-import Search from 'routes/Search';
-import Detail from 'routes/Detail';
+import Home from '../routes/Home';
+import TV from '../routes/TV';
+import Search from '../routes/Search';
+import Detail from '../routes/Detail';
 
 export default () => (
   <Router>
